@@ -1,10 +1,9 @@
 
-<img src="A.PNG"/>
+<img src="https://imagizer.imageshack.com/img923/779/V3hpmo.png"/>
 <div align = center>
 
 [![Badge Discord]][Discord]
 [![Badge Patreon]][Patreon]
-[![Badge PayPal]][PayPal]
 
 [![Badge License]][License]
 ![Badge Lines]
@@ -22,60 +21,59 @@
 ---
 </div>
 
-# Transparency in Carbon Credit usin 
+# Transparency in Carbon Credit using Blockchain
 
 ## About
 
-HunterPie v2 is a version of HunterPie completely rewritten from scratch, however, it follows the same principles of its predecessor: being a modern, powerful and easy to use overlay with support for plugins, modules and custom widgets for Monster Hunter: World and Monster Hunter: Rise.
+Creating a secure execution environment which can execute go programs by taking input data , perform the execution of the program, generate output / make state changes.(Secure Smart Contract execution environment)
 
-### Requirements
 
-- [.NET Desktop Runtime 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.7-windows-x64-installer)
+### Objectivies
 
-### Installation
+1. Configure and set up a secured smart contract environment where organization can join  and manage and view data. 
+2. The participating organizations should be able to record their day-to-day transactions which will be directly coming from MQ-135 sensors. 
+3. The application would be capable of calculating carbon credit in a parameterized and configurable manner through Global warming potential.
+4. The platform would be able to integrate with core systems considering real world scenarios.
+5. Organizations would be able to view the carbon transactions and the updated wallet.
+6. The solution should maintain privacy in the system with proper access control mechanisms.
 
-1. Download the binaries from either [Nexus Mods](https://www.nexusmods.com/monsterhunterrise/mods/181) or [GitHub](https://github.com/Haato3o/HunterPie-v2/releases/latest)
-2. Extract it somewhere, except Desktop, as that is known for giving some people issues due to lack of permissions to write to files.
-3. Run `HunterPie.exe`
 
-## Documentation
+### Proposed System
 
-HunterPie's official documentation can be found [here](https://docs.hunterpie.com).
+<img src="https://imagizer.imageshack.com/img924/5738/feFv5X.png"/>
 
-## Features
+1. Organizations will be able to sign up securely and two contracts will be available. First is the Organization factory where the features and information of ledger will be available and second will be the new organization contract where new org will be able to join through smart contract. 
 
-- [Monster Widget](https://docs.hunterpie.com/posts/monster-widget/)
-- [Abnormality Tray Widget](https://docs.hunterpie.com/posts/abnormality-tray-widget/)
-- [Wirebug Widget](https://docs.hunterpie.com/posts/wirebug-widget/)
-- [Activities Widget](https://docs.hunterpie.com/posts/activities-widget/)
-- [Chat Widget](https://docs.hunterpie.com/posts/chat-widget/)
-- [Damage Meter Widget](https://docs.hunterpie.com/posts/damage-meter-widget/)
-- [Specialized Tool Widget](https://docs.hunterpie.com/posts/specialized-tools-widget/)
-- Discord Rich Presence
+2. After successful sign-in, the organizations will be redirected to the dashboard and through MQ-135 sensors the data entry will be automatically done for the various gases. After the process of data entry, organizations will be able to approve the automated data through sensors  and then the carbon credit calculation will take place through the algorithm which uses Global Warming potential. Thereafter the transaction sheet will be updated.
+
+3. Through the wallet option on the dashboard, one can see the organization id and contract id through which the organizations will be connected. We can also view the credit allotted, credit used and available credit option.
+
+4. After the completion of the process, we will be able to view all the updated information on the dashboard.
+
+
+
+
+
+### Methodology
+
+1. Blockchain: It is a shared and immutable way of storing transactions that provides transparency of data by sharing data to all nodes in the network.
+2. Interface:  It mainly constitutes of the dashboard, wallet section and transaction section. The process of sign-in to automatic redirected data will be visible on dashboard. Through transaction page we will be able to get to know the approved transactions from the organizations and the information on the credits can be seen under wallet section.
+3. Sensor: For detecting Co2 gas we are using MQ135 co2 sensor with a measuring range 0~1000ppm.
+4. Data Management and Calculation: This data coming from the sensor is stored and pushed into the Blockchain ledger on a daily basis. These sensors are fixed in all the major hot spots where GHG gas is produced and store the data from all sensors in one place. Similarly, concentration of all other major GHG gas (N2O, CH4, HFC, PFC,SF6) is calculated. 
+
+
+
+
+
+## Features & Interfaces
+
+
+
+
 
 ## Suggestions & PRs
 
 Suggestions and pull requests are very appreciated, just keep in mind to follow the project architecture to keep it consistent.
 
 <!------- { Summary } ------>
-[Installation]: https://github.com/Haato3o/HunterPie-v2#installation
-[Documentation]: https://github.com/Haato3o/HunterPie-v2#documentation
-[Features]: https://github.com/Haato3o/HunterPie-v2#features
-[Contribution]: https://github.com/Haato3o/HunterPie-v2#suggestions--prs
 
-<!------- { Links } -------->
-[Discord]: https://discord.gg/5pdDq4Q
-[Patreon]: https://www.patreon.com/HunterPie
-[PayPal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=F2QA6HEQZ366A&source=url
-[License]: https://github.com/Haato3o/HunterPie-v2/blob/main/LICENSE
-[Wakatime]: https://wakatime.com/badge/github/Haato3o/HunterPie
-[Nexus]: https://www.nexusmods.com/monsterhunterrise/mods/181
-
-<!------- { Badges } ------->
-[Badge Discord]: https://img.shields.io/discord/678286768046342147?color=7289DA&label=Discord&logo=discord&logoColor=white
-[Badge Patreon]: https://img.shields.io/badge/Support-Patreon-blue.svg?color=fc8362&logo=patreon&logoColor=white
-[Badge PayPal]: https://img.shields.io/badge/donate-Paypal-blue.svg?color=62b2fc&logo=paypal&label=Support
-[Badge License]: https://img.shields.io/github/license/Haato3o/HunterPie-v2?color=c20067
-[Badge Wakatime]: https://wakatime.com/badge/github/Haato3o/HunterPie.svg
-[Badge Lines]: https://img.shields.io/tokei/lines/github/haato3o/hunterpie-v2
-[Badge Version]: https://img.shields.io/badge/dynamic/json?color=%2303a9fc&label=Version&prefix=v&query=latest_version&url=https%3A%2F%2Fapi.hunterpie.com%2Fv1%2Fversion
