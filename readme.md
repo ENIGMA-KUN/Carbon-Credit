@@ -1,16 +1,16 @@
 
 <img src="https://imagizer.imageshack.com/img923/779/V3hpmo.png"/>
-<div align = center>
+<!-- <div align = center>
 
 ---
 
-**[<kbd> <br> :rocket: Install <br> </kbd>][Installation]** 
+<!-- **[<kbd> <br> :rocket: Install <br> </kbd>][Installation]** 
 **[<kbd> <br> 📘 Documentation <br> </kbd>][Documentation]** 
 **[<kbd> <br> 🕹 Features <br> </kbd>][Features]** 
 **[<kbd> <br> 💙 Contribute <br> </kbd>][Contribution]**  
 
 ---
-</div>
+</div> --> -->
 
 # Transparency in Carbon Credit using Blockchain
 
