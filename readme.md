@@ -1,5 +1,6 @@
 
 <img src="https://imgur.com/kwHOabj"/>
+[img]https://i.imgur.com/kwHOabj.png[/img]
 <div align = center>
 
 [![Badge Discord]][Discord]
