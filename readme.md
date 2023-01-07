@@ -2,15 +2,6 @@
 <img src="https://imagizer.imageshack.com/img923/779/V3hpmo.png"/>
 <div align = center>
 
-[![Badge Discord]][Discord]
-[![Badge Patreon]][Patreon]
-
-[![Badge License]][License]
-![Badge Lines]
-![Badge Wakatime]
-
-[![Badge Version]][Nexus]
-
 ---
 
 **[<kbd> <br> :rocket: Install <br> </kbd>][Installation]** 
@@ -28,7 +19,7 @@
 Creating a secure execution environment which can execute go programs by taking input data , perform the execution of the program, generate output / make state changes.(Secure Smart Contract execution environment)
 
 
-### Objectivies
+## Objectivies
 
 1. Configure and set up a secured smart contract environment where organization can join  and manage and view data. 
 2. The participating organizations should be able to record their day-to-day transactions which will be directly coming from MQ-135 sensors. 
@@ -38,7 +29,7 @@ Creating a secure execution environment which can execute go programs by taking 
 6. The solution should maintain privacy in the system with proper access control mechanisms.
 
 
-### Proposed System
+## Proposed System
 
 <img src="https://imagizer.imageshack.com/img924/5738/feFv5X.png"/>
 
@@ -54,7 +45,7 @@ Creating a secure execution environment which can execute go programs by taking 
 
 
 
-### Methodology
+## Methodology
 
 1. Blockchain: It is a shared and immutable way of storing transactions that provides transparency of data by sharing data to all nodes in the network.
 2. Interface:  It mainly constitutes of the dashboard, wallet section and transaction section. The process of sign-in to automatic redirected data will be visible on dashboard. Through transaction page we will be able to get to know the approved transactions from the organizations and the information on the credits can be seen under wallet section.
@@ -67,13 +58,40 @@ Creating a secure execution environment which can execute go programs by taking 
 
 ## Features & Interfaces
 
+### Organization Interface
+
+<img src="https://imagizer.imageshack.com/img924/5806/fja4Xo.jpg"/>
+
+### Emission Data Entry
+
+<img src="https://imagizer.imageshack.com/img924/2142/Ksulxw.jpg"/>
+
+### Wallet 
+
+<img src="https://imagizer.imageshack.com/img922/3689/6pO6Pf.jpg"/>
+
+### sensors
+
+<img src="https://imagizer.imageshack.com/img922/4286/oXqt2G.jpg">
+
+
+---
 
 
 
+## Conclusions
 
-## Suggestions & PRs
+1. While developing or building this model we have come to the conclusion that with growing consciousness among nations to limit industrial  GHG pollution together with positive industrial growth, the emission touting appears to be the chief area of business attraction today.
+2. Here we have tried to create a Blockchain platform that will allow high-emitting organizations to detect their carbon footprints and mingle their quotas by acquiring carbon credits from low emitters.
+3. The setup spot for CO2 sensors has been made in such a way that it should follow up the law made up by the government organizations to achieve the purpose of giving accurate and errorless values of the liberated CO2 gas.
 
-Suggestions and pull requests are very appreciated, just keep in mind to follow the project architecture to keep it consistent.
+
+## Future Scope
+
+1. Currently we are calculating carbon credit only for scope 1 where we calculate for gases but in future we will try to add scope 2 and 3 to get exact measure and data of the organizations emitting carbon credits. 
+2. We will add the option of vetting agencies where they will be able to view the transaction of the organizations.
+
+
 
 <!------- { Summary } ------>
 
