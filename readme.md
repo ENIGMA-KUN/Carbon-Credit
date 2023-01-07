@@ -2,7 +2,7 @@
 <img src="https://imagizer.imageshack.com/img923/779/V3hpmo.png"/>
 <!-- <div align = center>
 
----
+
 
 <!-- **[<kbd> <br> :rocket: Install <br> </kbd>][Installation]** 
 **[<kbd> <br> 📘 Documentation <br> </kbd>][Documentation]** 
@@ -10,7 +10,7 @@
 **[<kbd> <br> 💙 Contribute <br> </kbd>][Contribution]**  
 
 ---
-</div> --> -->
+</div> --> 
 
 # Transparency in Carbon Credit using Blockchain
 
@@ -19,7 +19,7 @@
 Creating a secure execution environment which can execute go programs by taking input data , perform the execution of the program, generate output / make state changes.(Secure Smart Contract execution environment)
 
 
-## Objectivies
+## Objectives
 
 1. Configure and set up a secured smart contract environment where organization can join  and manage and view data. 
 2. The participating organizations should be able to record their day-to-day transactions which will be directly coming from MQ-135 sensors. 
@@ -70,7 +70,7 @@ Creating a secure execution environment which can execute go programs by taking 
 
 <img src="https://imagizer.imageshack.com/img922/3689/6pO6Pf.jpg"/>
 
-### sensors
+### Sensors
 
 <img src="https://imagizer.imageshack.com/img922/4286/oXqt2G.jpg">
 
