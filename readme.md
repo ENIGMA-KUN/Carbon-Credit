@@ -1,4 +1,5 @@
-![Image](https://imgur.com/kwHOabj)
+
+<img src="A.PNG"/>
 <div align = center>
 
 [![Badge Discord]][Discord]
@@ -21,7 +22,7 @@
 ---
 </div>
 
-# Transparency in Carbon Credit using Blockchain : CROWN MONKEY
+# Transparency in Carbon Credit usin 
 
 ## About
 
