@@ -1,4 +1,4 @@
-<img src="https://imgur.com/kwHOabj"/>
+![Image](https://imgur.com/kwHOabj)
 <div align = center>
 
 [![Badge Discord]][Discord]
